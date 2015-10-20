@@ -1,4 +1,22 @@
 /* You'll probably want to add some styles here */
-#container {
+#map {
 	height:800px;
+	background-color: gray;
+}
+p{
+	text-align: center;
+}
+h1 {
+	font-family: Helvetica;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+table, th {
+	margin-right: 3em;
+	margin-left: 3em;
+}
+
+tr{
+	text-align: center;
 }
